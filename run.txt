@@ -1,0 +1,24 @@
+To run the project, execute the following command in your terminal:
+
+1. python main.py
+
+
+Login credentials:
+
++--------+---------------------+-----------+
+| Role   | Username            | Password  |
++--------+---------------------+-----------+
+| Admin  | worket              | 1234      |
+| User   | worket              | 1234      |
++--------+---------------------+-----------+
+
+
+Mandatory Vs Code Extensions:
+
+1. Python Extension Pack (All)
+2. autopep8
+3. isort
+4. Code Runner
+5. Prettier
+6. Python Environment
+7. PowerShell

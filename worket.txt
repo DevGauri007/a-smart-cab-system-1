@@ -1,0 +1,4 @@
+worket|0258963|Delhi|Hyderabad|10-07-2025|Luxury
+Kishan|98205235|Chennai|Guwahati|15-07-2025|Luxury
+Muskan|1111111111|Delhi|Lucknow|31-8-2022|Economy
+gauri|9637459537|Pune|Mumbai|6-7-2024|buissness
